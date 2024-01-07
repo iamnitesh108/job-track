@@ -1,7 +1,7 @@
 
-# Job Tracker
+# Job Track
 
-JobTracker is a user-friendly website designed for efficiently logging and managing job applications. Users can track the details of the companies to which they have applied.
+Jobtrack is a user-friendly website designed for efficiently logging and managing job applications. Users can track the details of the companies to which they have applied.
 
 - Users can register and log into the app. Non-users can explore the app using the Demo user feature.
 - Authenticated users can add information about the jobs they have applied for in companies, with various details.
@@ -48,8 +48,4 @@ JobTracker is a user-friendly website designed for efficiently logging and manag
   npm run dev
 ```
     
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
